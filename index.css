@@ -7,7 +7,23 @@ html, body {
 #gridContainer {
     column-gap: 0px;
     row-gap: 0px;
+    height: 90%;
 }
 .colored {
     background-color: black;
+}
+#resetButtonContainer {
+    height: 10%;
+    top: 0;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;}
+h1 {
+    
+}
+button {
+    height: 100px;
+    margin-left: 100px;
 }
